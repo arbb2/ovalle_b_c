@@ -157,7 +157,7 @@ var style11 = {
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);
+  });.addTo(map);
 
 
 	var nodo_10 = L.geoJSON(nodo_10, {
@@ -165,7 +165,7 @@ var style11 = {
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);
+  });.addTo(map);
 
 
 			  
@@ -174,21 +174,21 @@ var style11 = {
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);
+  });.addTo(map);
 	
 	var nodo_12 = L.geoJSON(nodo_12, {
 	style: style4,
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);		  
+  });.addTo(map);		  
 
 	var nodo_13 = L.geoJSON(nodo_13, {
 	style: style6,
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);
+  });.addTo(map);
   
   
 	var nodo_14 = L.geoJSON(nodo_14, {
@@ -196,7 +196,7 @@ var style11 = {
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);
+  });.addTo(map);
 
 
 	var nodo_15 = L.geoJSON(nodo_15, {
@@ -204,14 +204,14 @@ var style11 = {
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);
+  });.addTo(map);
 
 	var nodo_16 = L.geoJSON(nodo_16, {
 	style: style9,
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);
+  });.addTo(map);
 
 
 	var nodo_17 = L.geoJSON(nodo_17, {
@@ -219,7 +219,7 @@ var style11 = {
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);
+  });.addTo(map);
 
 
   	var nodo_18 = L.geoJSON(nodo_18, {
@@ -227,7 +227,7 @@ var style11 = {
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);
+  });.addTo(map);
   
   
   
@@ -236,21 +236,21 @@ var style11 = {
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map); 
+  });.addTo(map); 
 			  
 	var nodo_20 = L.geoJSON(nodo_20, {
 	style: style2,
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);			  
+  });.addTo(map);			  
 
 	var nodo_24 = L.geoJSON(nodo_24, {
 	style: style3,
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);		  
+  });.addTo(map);		  
 
 
 	var nodo_26 = L.geoJSON(nodo_26, {
@@ -258,7 +258,7 @@ var style11 = {
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);
+  });.addTo(map);
 
 
 	var nodo_31 = L.geoJSON(nodo_31, {
@@ -266,7 +266,7 @@ var style11 = {
     onEachFeature: function (feature, layer) {
     layer.bindPopup(feature.properties.Name+'</p>');
   }
-  });//.addTo(map);
+  });.addTo(map);
 
 
 
